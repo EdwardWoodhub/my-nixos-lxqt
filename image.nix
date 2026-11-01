@@ -17,7 +17,7 @@ let
   };
 in
 pkgs.dockerTools.buildLayeredImage {
-  name = "my-wayland-nixos-vm";
+  name = "my-nixos-lxqt-vm";
   tag = "latest";
 
   # 最多切分 100 层，最大化复用基础库和未变动组件
