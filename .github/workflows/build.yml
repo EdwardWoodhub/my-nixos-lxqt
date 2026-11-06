@@ -1,9 +1,9 @@
 name: Build LXQt OS With Nix
 
 on:
-  # 1. 每天北京时间 03:38 (UTC 19:38) 定时执行
+  # 1. 每天北京时间 02:02 (UTC 18:02) 定时执行
   schedule:
-    - cron: '38 19 * * *'
+    - cron: '02 18 * * *'
 
   # 2. 仅当 main 分支有代码 push 时触发
   push:
