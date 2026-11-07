@@ -266,7 +266,7 @@
     v2ray
     v2raya
     vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
-    vscode
+#   vscode
     waybar       # 可选：如果不用 lxqt-panel
     wget
     wl-clipboard
