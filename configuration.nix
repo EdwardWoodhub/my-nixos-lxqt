@@ -224,6 +224,7 @@
 # List packages installed in system profile. To search, run:
 # $ nix search wget
   environment.systemPackages = with pkgs; [
+    bandwhich
     btop
     curl
     fastfetch
@@ -258,6 +259,7 @@
     perl
     podman
     python3
+    regclient
     samba
     slurp
     tilix
