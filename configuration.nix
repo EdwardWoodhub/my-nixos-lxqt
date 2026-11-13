@@ -258,6 +258,7 @@
     lxqt.xdg-desktop-portal-lxqt 
     mate.pluma
     meld   
+    mesa
     perl
     podman
     python3
