@@ -235,6 +235,7 @@
     fuse
     gedit
     git
+    gnome-extension-manager
     google-chrome
     grim
     htop
